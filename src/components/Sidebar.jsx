@@ -1,4 +1,4 @@
-import AppNav from "./AppNAv";
+import AppNav from "./AppNav";
 import Logo from "./Logo";
 import styles from "./Sidebar.module.css";
 export default function Sidebar() {
